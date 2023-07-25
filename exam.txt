@@ -1,2 +1,2 @@
- I am studying in C-DAC.
+I am studying in C-DAC.
 I am operating for the DAC course.
